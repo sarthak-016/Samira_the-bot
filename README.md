@@ -1,6 +1,9 @@
-# Samira_the-bot
-A web based chatbot for GM University website.
+# SAMIRA
+<br> Author: SARTHAK_PANDA <br>
+Purpose: College_Project <br>
+Guided By: Usha Manasi Mahapatra<br>
 <br><hr><pre>
+  DESCRIPTION.....
   This is a chat_bot made using google dialogflow platform which can serve as helping agent on 
   targetd (GANGADHAR MEHER UNIVERSITY) website. It is mainly inspired from use of business chatbots 
   like "flippi" of flipkart and "alexa" of amazon. It is to be made using NLP, some ML libreries of python, 
